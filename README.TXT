@@ -28,3 +28,8 @@ The purpose of this project is to demonstrate and study library classes, such
 as ArrayList, HashMap, HashSet, and Random.
 
 This project is only a first, rudimentary step towards the full solution.
+
+24) A map with Strings as keys and values
+25) Yes you can use both types and some methods are, containsKey(Object key), containsValue(Object value), get(Object key), etc
+26) Use public int size()
+27)
